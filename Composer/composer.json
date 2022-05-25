@@ -1,0 +1,15 @@
+{
+    "name": "chris/composer",
+    "autoload": {
+        "psr-4": {
+            "Chris\\Composer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "christian menezes",
+            "email": "christiannmenezes@gmail.com"
+        }
+    ],
+    "require": {}
+}
